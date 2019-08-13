@@ -1,9 +1,3 @@
-#PRACTICA n°1
-#SISTEMAS EMPRESARIALES
-##Nombre : Noel Piter Tapia Gutierrez
-##Paralelo : 7mo C
-##Materia : Tecnologias Emergentes II
-
 >1) Explique que son los sistemas empresariales
 
 Son aquellos que constituyen el conjunto de recursos de la empresa, que sirven como soporte para el proceso basico de captacion, transformacion y comunicacion de la informacion.
